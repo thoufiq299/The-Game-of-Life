@@ -35,7 +35,7 @@
 				</configuration>
 			</plugin>
 			
-			<!-- This will build a JAR that contains all dependencies inside of it. -->
+			<!-- This will build a JAR that contains all dependencies inside of it  baby. -->
 			<!-- To build, run "mvn clean compile assembly:single" -->
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
